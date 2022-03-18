@@ -25,7 +25,7 @@ Ainda por fazer ...
 ---
   
 ### Artigos 📃
-<p><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" /></a><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" /></a></p>
+<p><figure><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" /><figcaption>Legenda para a imagem impressionante</figcaption></figure></a><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" /></a></p>
 
   
 --- 
