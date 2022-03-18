@@ -1,7 +1,5 @@
 <img src="https://github.com/VINIA6/VINIA6/blob/master/b4.png">
 
----
-
 <a href="mailto:viniciusdeassisazevedo@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
 </a>
@@ -14,7 +12,7 @@
 
 ---
 
-### Olá 👋
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Ainda por fazer ...
 
