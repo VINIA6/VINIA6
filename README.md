@@ -1,15 +1,17 @@
 <img src="https://github.com/VINIA6/VINIA6/blob/master/img1.svg">
 
+<br />
 <a href="mailto:viniciusdeassisazevedo@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-</a
+</a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-assis-53a1b6190">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-</a
+</a>
   <a href="https://www.instagram.com/USERNAME/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="40" />
-</a
-
+</a>
+<br />
+<br />
 
 
 
