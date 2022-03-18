@@ -25,6 +25,7 @@ Ainda por fazer ...
 ---
   
 ### Artigos 📃
+  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -100,8 +101,6 @@ Ainda por fazer ...
   </tbody>
 </table>
   
-  
-  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -111,9 +110,6 @@ Ainda por fazer ...
   <tbody>
     <tr>
       <td><a href="https://github.com/VINIA6/COMUNIC_UDP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_UDP_CLIENTE_SERVIDOR"/></a></td>
-      
     </tr>
   </tbody>
 </table>
-  
- ---
