@@ -3,13 +3,13 @@
 ---
 
 <a href="mailto:viniciusdeassisazevedo@hotmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
 </a>
  <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-assis-53a1b6190">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
 </a>
- <a href="https://www.instagram.com/viniciusdeassisazevedo/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+<a href="https://www.instagram.com/viniciusdeassisazevedo/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="20" />
 </a>
 
 ---
@@ -24,7 +24,10 @@ Ainda por fazer ...
 ---
   
 ### Artigos 📃
-  
+ 
+<a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="20" />
+</a>
 --- 
  
  ### Projetos Data Science 📁
