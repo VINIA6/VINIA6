@@ -25,27 +25,22 @@ Ainda por fazer ...
 ---
   
 ### Artigos 📃
-  
- <div class="box">
-  <a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/">
-    <img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" />
-    <span> Edepois do modelo ? </span>
-  </a> 
-</div>
-  
-<div class="box">
-  <a href="https://www.google.com">
-   <img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" />
-    <span> Google </span>
-  </a>  
+ <div>
+	<div class="box">
+	  <a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/">
+	    <img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" />
+	    <span> Edepois do modelo ? </span>
+	  </a> 
+	</div>
+
+	<div class="box">
+	  <a href="https://www.google.com">
+	   <img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" />
+	    <span> Google </span>
+	  </a>  
+	</div>
 </div>
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
   
 --- 
  
