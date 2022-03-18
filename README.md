@@ -21,6 +21,16 @@ Ainda por fazer ...
   Repositorio pr amudanças no readme
 <\a>
 
-
-
-
+---
+  
+### Artigos 
+  
+--- 
+ 
+ ### Projetos Data Science
+ 
+---
+  
+ ### Brincando com WEB 
+  
+ ---
