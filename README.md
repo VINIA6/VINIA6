@@ -26,7 +26,7 @@ Ainda por fazer ...
 ### Artigos 📃
  
 <a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="20" />
+  <img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" />
 </a>
 --- 
  
