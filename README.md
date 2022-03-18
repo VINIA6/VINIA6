@@ -23,14 +23,14 @@ Ainda por fazer ...
 
 ---
   
-### Artigos 
+### Artigos 📃
   
 --- 
  
- ### Projetos Data Science
+ ### Projetos Data Science 📁
  
 ---
   
- ### Brincando com WEB 
+ ### Projetos desenvolvimento WEB 📁
   
  ---
