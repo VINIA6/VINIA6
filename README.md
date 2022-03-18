@@ -1,4 +1,4 @@
-<img src="https://github.com/VINIA6/VINIA6/blob/master/IMAGEM.svg">
+<img src="https://github.com/VINIA6/VINIA6/blob/master/img.svg">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
