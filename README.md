@@ -45,7 +45,24 @@ Ainda por fazer ...
 --- 
  
 ### Projetos Data Science 📁
-<p><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="E depois do modelo ?"/></a><a href="https://www.google.com" target="_blank"><img   src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a><a href="https://www.google.com" target="_blank"><img               src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></p>
+  
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>E depois do modelo ?</b></td>
+      <td><b>...</b></td>
+      <td><b>...</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="E depois do modelo ?"/></a></td>
+      <td><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
+      <td><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
  
 ---
   
