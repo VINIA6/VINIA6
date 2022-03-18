@@ -1,5 +1,7 @@
 <img src="https://github.com/VINIA6/VINIA6/blob/master/img1.svg">
+
 ---
+
 <a href="mailto:viniciusdeassisazevedo@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
