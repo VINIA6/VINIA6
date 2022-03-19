@@ -14,10 +14,10 @@
 
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Ainda por fazer ...
+Sou um entusiasta pela área de Data Science e como ela pode ser usada para gerar valores para negócios e clientes. Estou em plena formação no curso de Ciência da Computação, onde por sua vez tenho experiências em projetos sólidos. Estou ansioso para associar habilidades pessoais e uma formação técnica para fornecer resultados estratégicos e significativos.
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"> 
-  Repositorio pr amudanças no readme
+  .
 <\a>
 
 ---
