@@ -66,7 +66,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>CRUD com interface.</b></td>
+      <td><b>CRUD - interface.</b></td>
       <td><b>RestApi/RestApiFull com Flask</b></td>
       <td><b>OmniStack</b></td>
     </tr>
