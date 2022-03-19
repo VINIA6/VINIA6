@@ -87,7 +87,7 @@
     <tr border: none;>
       <td><b>Landing Page</b></td>
       <td><b>CRUD com nodeJS - RestApi</b></td>
-      <td><b>Comunicação TCP Cliente-Servidor</b></td>
+      <td><b>Comunicação TCP</b></td>
     </tr>
   </thead>
   <tbody>
@@ -102,7 +102,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Comunicação UDP Cliente-Servidor</b></td>
+      <td><b>Comunicação UDP</b></td>
     </tr>
   </thead>
   <tbody>
