@@ -28,14 +28,12 @@
   <thead align="center">
     <tr border: none;>
       <td><b>E depois do modelo ?</b></td>
-      <td><b>...</b></td>
     </tr>
   </thead>
   <tbody>
   <thead align="center">
     <tr>
       <td><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" title="E depois do modelo ?"/></a></td>
-      <td><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" title="Google"/></a</td>
     </tr>
   </thead>
   </tbody>
@@ -51,7 +49,6 @@
       <td><b>IA Moagem de cimento</b></td>
       <td><b>Prevendo a resistência do cimento</b></td>
       <td><b>Risco de crédito - Naive Bayes</b></td>
-      
     </tr>
   </thead>
   <tbody>
