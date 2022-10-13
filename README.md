@@ -32,10 +32,12 @@
     </tr>
   </thead>
   <tbody>
+  <thead align="center">
     <tr>
       <td><a href="https://www.linkedin.com/pulse/e-depois-do-modelo-vin%C3%ADcius-de-assis/" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" title="E depois do modelo ?"/></a></td>
       <td><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/arquivo.png" height="200" title="Google"/></a</td>
     </tr>
+  </thead>
   </tbody>
 </table>
   
@@ -52,11 +54,13 @@
     </tr>
   </thead>
   <tbody>
+  <thead align="center">
     <tr>
     <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Predict compressive strength"/></a></td>
       <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
       <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="FORECAST_DEMAND"/></a></td>
     </tr>
+  </thead>
   </tbody>
    <thead align="center">
     <tr border: none;>
