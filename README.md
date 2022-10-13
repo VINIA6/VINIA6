@@ -64,17 +64,14 @@
   </tbody>
    <thead align="center">
     <tr border: none;>
-      <td><b>--</b></td>
-      <td><b>--</b></td>
-      <td><b>--</b></td>
+      <td><b>IA Moagem de cimento</b></td>
     </tr>
   </thead>
   <tbody>
     <thead align="center">
     <tr>
-      <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png"           height="200" title="--"/></a></td>
-      <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
-      <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
+      <td><a href="https://www.google.com" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
+  
     </tr>
   </thead>
   </tbody>
