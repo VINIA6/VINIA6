@@ -48,8 +48,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Prevendo a resistência do cimento</b></td>
       <td><b>IA Moagem de cimento</b></td>
+      <td><b>Prevendo a resistência do cimento</b></td>
       <td><b>Risco de crédito - Naive Bayes</b></td>
       
     </tr>
