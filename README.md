@@ -70,11 +70,13 @@
     </tr>
   </thead>
   <tbody>
+    <thead align="center">
     <tr>
       <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png"           height="200" title="--"/></a></td>
       <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
       <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
     </tr>
+  </thead>
   </tbody>
 </table>
 
@@ -91,11 +93,13 @@
     </tr>
   </thead>
   <tbody>
+    <thead align="center">
     <tr>
       <td><a href="https://github.com/VINIA6/CRUD_WITH_INTERFACE" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CRUD_WITH_INTERFACE"/></a></td>
       <td><a href="https://github.com/VINIA6/API_FLASK" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="API_FLASK"/></a></td>
       <td><a href="https://github.com/VINIA6/OmniStack" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="OmniStack"/></a></td>
     </tr>
+  </thead>
   </tbody>
   
   <thead align="center">
@@ -106,11 +110,13 @@
     </tr>
   </thead>
   <tbody>
+  <thead align="center">
     <tr>
       <td><a href="https://github.com/VINIA6/CRUD_COM_NODEJS_REST_API" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="OmniStack"/></a></td>
       <td><a href="https://github.com/VINIA6/LANDING_PAGE_PROJETO_WEB" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="LandingPage"/></a></td>
       <td><a href="https://github.com/VINIA6/COMUNIC_TCP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_TCP_CLIENTE_SERVIDOR"/></a></td>
     </tr>
+  </thead>
   </tbody>
   
   <thead align="center">
@@ -119,9 +125,11 @@
     </tr>
   </thead>
   <tbody>
+    <thead align="center">
     <tr>
       <td><a href="https://github.com/VINIA6/COMUNIC_UDP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_UDP_CLIENTE_SERVIDOR"/></a></td>
     </tr>
+  </thead>
   </tbody>
   
 </table>
