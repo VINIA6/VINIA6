@@ -58,34 +58,22 @@
       <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="FORECAST_DEMAND"/></a></td>
     </tr>
   </tbody>
-  <thead align="center">
+   <thead align="center">
     <tr border: none;>
-      <td><b>Prevendo a resistência do cimento</b></td>
-      <td><b>Risco de crédito - Naive Bayes</b></td>
-      <td><b>Previsão de demanda</b></td>
+      <td><b>--</b></td>
+      <td><b>--</b></td>
+      <td><b>--</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png"           height="200" title="www"/></a></td>
-      <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="xxx"/></a></td>
-      <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="yyy"/></a></td>
+      <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png"           height="200" title="--"/></a></td>
+      <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
+      <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
     </tr>
   </tbody>
 </table>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>www</b></td>
-      <td><b>xxx</b></td>
-      <td><b>yyy</b></td>
-    </tr>
-  </thead>
-
-</table>
-
- 
 ---
   
 ### Projetos desenvolvimento WEB 📁
@@ -105,11 +93,7 @@
       <td><a href="https://github.com/VINIA6/OmniStack" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="OmniStack"/></a></td>
     </tr>
   </tbody>
-</table>
   
-  
-  
-<table>
   <thead align="center">
     <tr border: none;>
       <td><b>Landing Page</b></td>
@@ -124,9 +108,7 @@
       <td><a href="https://github.com/VINIA6/COMUNIC_TCP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_TCP_CLIENTE_SERVIDOR"/></a></td>
     </tr>
   </tbody>
-</table>
   
-<table>
   <thead align="center">
     <tr border: none;>
       <td><b>Comunicação UDP</b></td>
@@ -137,4 +119,6 @@
       <td><a href="https://github.com/VINIA6/COMUNIC_UDP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_UDP_CLIENTE_SERVIDOR"/></a></td>
     </tr>
   </tbody>
+  
 </table>
+  
