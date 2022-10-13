@@ -50,6 +50,11 @@
       <td><b>Risco de crédito - Naive Bayes</b></td>
       <td><b>Previsão de demanda</b></td>
     </tr>
+     <tr border: none;>
+      <td><b>Prevendo a resistência do cimento</b></td>
+      <td><b>Risco de crédito - Naive Bayes</b></td>
+      <td><b>Previsão de demanda</b></td>
+    </tr>
   </thead>
   <tbody>
     <tr>
