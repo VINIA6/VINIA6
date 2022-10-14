@@ -3,7 +3,7 @@
 <a href="mailto:viniciusdeassisazevedo@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
 </a>
- <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-assis-53a1b6190">
+ <a href="https://www.linkedin.com/in/vinia6">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
 </a>
 <a href="https://www.instagram.com/viniciusdeassisazevedo/">
@@ -14,7 +14,11 @@
 
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Sou um entusiasta pela área de Data Science e como ela pode ser usada para gerar valores para negócios e clientes. Estou em plena formação no curso de Ciência da Computação, onde por sua vez tenho experiências em projetos sólidos. Estou ansioso para associar habilidades pessoais e uma formação técnica para fornecer resultados estratégicos e significativos.</p>
+<p>Meu nome é Vinícius, sou um entusiasta pela área de Ciência de Dados e como ela pode ser usada para gerar valores para negócios e clientes. Estou no 7°/8° no curso de Ciência da Computação, onde por sua vez venho traçando um caminho com experiências em projetos sólidos. Passando pelo PET, que é um projeto que desenvolve os três pilares da universidade, que são, pesquisa, ensino e extensão, cada área desenvolve uma habilidade impar para o aluno que tem essa oportunidade, no projeto desenvolvi artigos e projetos de ensino visando capacitar os alunos da graduação com conhecimentos atuais.</p> 
+<p>Logo em seguida tive a oportunidade de participar de um projeto voltado a área de Ciência de Dados, neste projeto a parceria entre a Cimento Apodi e Universidade Federal do Ceará (UFC) vem causando impactos concretos na indústria, através de tecnologias inovadoras. Fruto dessa cooperação, surgiu o projeto de Ciência de Dados e Processos Autônomos.
+O projeto é composto por uma equipe com professores e alunos da UFC e um time da Titan Ciment, acionista internacional da Cimento Apodi. No mesmo, tivemos o desafio de implementar duas IA's para o controle autônomo do Moinho de Cru e Forno, na unidade de Quixeré - CE.
+Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análises de dados e modelos de regressão para séries temporais, além de técnicas de otimização. A minha principal responsabilidade no trabalho foi trabalhar com modelos de regressão e elaboração de relatórios automáticos para a análise exploratória feita.Estou ansioso para associar habilidades pessoais e uma formação técnica para fornecer resultados estratégicos e significativos.</p>
+<p>Assim, logo em seguida do término do projeto, surgiu a oportunidade de estagiar na Companhia Industrial de Cimento Apodi, na área de Inteligência Artificial, lá pude desenvolver projetos na área de séries temporais, projetos de Ciência de dados, que você pode ver com mais detalhe nos projetos abaixo, e projetos de otimização de processos tabalhando com Matemaica Computacional, empenhando-se ao máximo para ter uma solução ótima para os projetos.</p>
 <br/>
 <p>Veja abaixo, meus artigos e projetos pessoais.</p>
 
