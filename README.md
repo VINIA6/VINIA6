@@ -14,12 +14,6 @@
 
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Meu nome é Vinícius, sou um entusiasta pela área de Ciência de Dados e como ela pode ser usada para gerar valores para negócios e clientes. Estou no 7°/8° no curso de Ciência da Computação, onde por sua vez venho traçando um caminho com experiências em projetos sólidos. Passando pelo PET, que é um projeto que desenvolve os três pilares da universidade, que são, pesquisa, ensino e extensão, cada área desenvolve uma habilidade impar para o aluno que tem essa oportunidade, no projeto desenvolvi artigos e projetos de ensino visando capacitar os alunos da graduação com conhecimentos atuais.</p> 
-<p>Logo em seguida tive a oportunidade de participar de um projeto voltado a área de Ciência de Dados, neste projeto a parceria entre a Cimento Apodi e Universidade Federal do Ceará (UFC) vem causando impactos concretos na indústria, através de tecnologias inovadoras. Fruto dessa cooperação, surgiu o projeto de Ciência de Dados e Processos Autônomos.
-O projeto é composto por uma equipe com professores e alunos da UFC e um time da Titan Ciment, acionista internacional da Cimento Apodi. No mesmo, tivemos o desafio de implementar duas IA's para o controle autônomo do Moinho de Cru e Forno, na unidade de Quixeré - CE.
-Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análises de dados e modelos de regressão para séries temporais, além de técnicas de otimização. A minha principal responsabilidade no trabalho foi trabalhar com modelos de regressão e elaboração de relatórios automáticos para a análise exploratória feita.Estou ansioso para associar habilidades pessoais e uma formação técnica para fornecer resultados estratégicos e significativos.</p>
-<p>Assim, logo em seguida do término do projeto, surgiu a oportunidade de estagiar na Companhia Industrial de Cimento Apodi, na área de Inteligência Artificial, lá pude desenvolver projetos na área de séries temporais, projetos de Ciência de dados, que você pode ver com mais detalhe nos projetos abaixo, e projetos de otimização de processos tabalhando com Matemaica Computacional, empenhando-se ao máximo para ter uma solução ótima para os projetos.</p>
-<br/>
 <p>Veja abaixo, meus artigos e projetos pessoais.</p>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"> . </a>
@@ -46,7 +40,6 @@ Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análi
 --- 
  
 ### Projetos Data Science 📁
-  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -55,6 +48,7 @@ Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análi
       <td><b>Risco de crédito - Naive Bayes</b></td>
     </tr>
   </thead>
+  
   <tbody>
   <thead align="center">
     <tr>
@@ -64,9 +58,10 @@ Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análi
     </tr>
   </thead>
   </tbody>
+  
    <thead align="center">
     <tr border: none;>
-       <td><b>Acelerando vendas e <br> controlando perda de clientes <br> (Databricks)</b></td>
+       <td><b>Acelerando vendas e <br> controlando perda de clientes <br> (Databricks - Spark)</b></td>
        <td><b>Previsão de demanda</b></td>
     </tr>
   </thead>
@@ -75,7 +70,6 @@ Expandindo para o lado mais técnico da aplicação, nós trabalhamos com análi
     <tr>
     <td><a href="https://github.com/VINIA6/EBAC" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CASE_AUMENTANDO_VENDAS_E_RETENDO_CLIENTES"/></a></td>
       <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="FORECAST_DEMAND"/></a></td>
-      
     </tr>
   </thead>
   </tbody>
