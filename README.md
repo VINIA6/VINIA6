@@ -45,7 +45,7 @@
     <tr border: none;>
       <td><b>IA moagem de cimento</b></td>
       <td><b>Prevendo a resistência do cimento</b></td>
-      <td><b>Risco de crédito - Naive Bayes</b></td>
+      <td><b>IA Flappy Bird</b></td>
     </tr>
   </thead>
   
@@ -54,13 +54,14 @@
     <tr>
       <td><a href="https://github.com/VINIA6/vertical_mill" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="--"/></a></td>
       <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Predict compressive strength"/></a></td>
-      <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
+      <td><a href="https://github.com/VINIA6/AiFlappyBird" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
     </tr>
   </thead>
   </tbody>
   
    <thead align="center">
     <tr border: none;>
+       <td><b>Risco de crédito - Naive Bayes</b></td>
        <td><b>Acelerando vendas e <br> controlando perda de clientes <br> (Databricks - Spark)</b></td>
        <td><b>Previsão de demanda</b></td>
     </tr>
@@ -68,7 +69,8 @@
   <tbody>
     <thead align="center">
     <tr>
-    <td><a href="https://github.com/VINIA6/EBAC" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CASE_AUMENTANDO_VENDAS_E_RETENDO_CLIENTES"/></a></td>
+      <td><a href="https://github.com/VINIA6/NaiveBayes_Analise_de_Credito" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="FORECAST_DEMAND"/></a></td>
+      <td><a href="https://github.com/VINIA6/EBAC" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CASE_AUMENTANDO_VENDAS_E_RETENDO_CLIENTES"/></a></td>
       <td><a href="https://github.com/VINIA6/FORECAST_DEMAND" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="FORECAST_DEMAND"/></a></td>
     </tr>
   </thead>
