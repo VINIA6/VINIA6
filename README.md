@@ -18,7 +18,7 @@
 
 ---
 
-### Projetos Software engineer 📁
+### Projetos Software Engineer 📁
 <table>
 
 <thead align="center">
