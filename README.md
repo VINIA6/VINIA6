@@ -26,6 +26,7 @@
 <td><b>Manipualndo MultiBD com API</b></td>
 <td><b>CRUD Django</b></td>
 <td><b>Chat com Socket</b></td>
+<td><b>Chat com Socket</b></td>
 </tr>
 </thead>
 <tbody>
@@ -34,6 +35,9 @@
 <td><a href="https://github.com/VINIA6/CrudMultiBD" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
 <td><a href="https://github.com/VINIA6/CRUDjango" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CRU_DJANGO"/></a></td>
 <td><a href="https://github.com/VINIA6/ChatSocket" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
+
+<td><a href="https://github.com/VINIA6/ChatSocket" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
+
 </tr>
 </thead>
 
