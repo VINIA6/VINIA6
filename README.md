@@ -32,7 +32,7 @@
 <thead align="center">
 <tr border: none;>
   
-<td><b>XXXXXXXXXXX</b></td>
+<td><b>Post Card</b></td>
 <td><b>Projeto FullStack (Desenvolvendo)</b></td>
 <td><b>Manipualndo MultiBD com API</b></td>
 <td><b>CRUD Django</b></td>
@@ -44,7 +44,7 @@
 <thead align="center">
 <tr>
 
-<td><a href="" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="xxxxx"/></a></td>
+<td><a href="https://github.com/VINIA6/projetos_react/tree/master/project-1" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="postCard"/></a></td>
 <td><a href="https://github.com/VINIA6/Case_Winter_Internship" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
 <td><a href="https://github.com/VINIA6/CrudMultiBD" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
 <td><a href="https://github.com/VINIA6/CRUDjango" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CRU_DJANGO"/></a></td>
