@@ -46,9 +46,9 @@
 <thead align="center">
 <tr border: none;>
   
+<td><b>API PDV (Frente de Caixa)</b></td>
 <td><b>API Bank</b></td>
 <td><b>API Restful transações</b></td>
-<td><b>API PDV (Frente de Caixa)</b></td>
 <td><b>Post Card</b></td>
 
 
@@ -58,9 +58,9 @@
 <thead align="center">
 <tr>
 
+<td><a href="https://github.com/VINIA6/API-PDV" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
 <td><a href="https://github.com/VINIA6/api-bank-digital" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="APIBnak"/></a></td>
 <td><a href="https://github.com/VINIA6/RESTful-API-transactions-Bank" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="restfulapitransacoes"/></a></td>
-<td><a href="https://github.com/VINIA6/API-PDV" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
 <td><a href="https://github.com/VINIA6/projetos_react/tree/master/project-1" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="postCard"/></a></td>
 
 </tr>
