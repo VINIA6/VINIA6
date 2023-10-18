@@ -46,10 +46,10 @@
 <thead align="center">
 <tr border: none;>
   
+<td><b>API Bank</b></td>
+<td><b>API Restful transações</b></td>
+<td><b>API PDV (Frente de Caixa)</b></td>
 <td><b>Post Card</b></td>
-<td><b>Projeto FullStack (Desenvolvendo)</b></td>
-<td><b>Manipualndo MultiBD com API</b></td>
-<td><b>CRUD Django</b></td>
 
 
 </tr>
@@ -58,10 +58,34 @@
 <thead align="center">
 <tr>
 
+<td><a href="https://github.com/VINIA6/api-bank-digital" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="APIBnak"/></a></td>
+<td><a href="https://github.com/VINIA6/RESTful-API-transactions-Bank" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="restfulapitransacoes"/></a></td>
+<td><a href="https://github.com/VINIA6/API-PDV" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
 <td><a href="https://github.com/VINIA6/projetos_react/tree/master/project-1" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="postCard"/></a></td>
+
+</tr>
+</thead>
+
+<thead align="center">
+<tr border: none;>
+
+<td><b>CRUD Django</b></td>
+<td><b>Chat Socket</b></td>
+<td><b>Login (Desenvolvendo)</b></td>
+<td><b>Manipualndo MultiBD com API</b></td>
+
+
+
+</tr>
+</thead>
+<tbody>
+<thead align="center">
+<tr>
+
+<td><a href="https://github.com/VINIA6/CRUDjango" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CRU_DJANGO"/></a></td>
+<td><a href="https://github.com/VINIA6/ChatSocket" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
 <td><a href="https://github.com/VINIA6/Case_Winter_Internship" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
 <td><a href="https://github.com/VINIA6/CrudMultiBD" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Manipulando MultiDB com API"/></a></td>
-<td><a href="https://github.com/VINIA6/CRUDjango" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CRU_DJANGO"/></a></td>
 
 </tr>
 </thead>
@@ -70,7 +94,7 @@
 <tr border: none;>
 <td><b>IA Flappy Bird</b></td>
 <td><b>Chat Boot Telegram</b></td>
-<td><b>Chat com Socket</b></td>
+<td><b>Comunicação TCP </b></td>
 <td><b>Prevendo a resistência do cimento</b></td>
 </tr>
 </thead>
@@ -81,7 +105,7 @@
 
 <td><a href="https://github.com/VINIA6/AiFlappyBird" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Google"/></a></td>
 <td><a href="https://github.com/VINIA6/BootTelegramFit" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Boot Telegram"/></a></td>
-<td><a href="https://github.com/VINIA6/ChatSocket" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="CHAT_SOCKET"/></a></td>
+<td><a href="https://github.com/VINIA6/COMUNIC_TCP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_TCP_CLIENTE_SERVIDOR"/></a></td>
 <td><a href="https://github.com/VINIA6/-predict-compressive-strength" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="Predict compressive strength"/></a></td>
 </tr>
 </thead>
@@ -126,19 +150,6 @@
 </thead>
 </tbody>
 
-<thead align="center">
-<tr border: none;>
-<td><b>Comunicação TCP </b></td>
-</tr>
-</thead>
-<tbody>
-<thead align="center">
-<tr>
-<td><a href="https://github.com/VINIA6/COMUNIC_TCP_CLIENTE_SERVIDOR" target="_blank"><img src="https://github.com/VINIA6/VINIA6/blob/master/Pasta.png" height="200" title="COMUNIC_TCP_CLIENTE_SERVIDOR"/></a></td>
-</tr>
-</thead>
-</tbody>
-</table>
 
 ---
   
