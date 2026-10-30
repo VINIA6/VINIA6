@@ -1,20 +1,38 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=3FB950&vCenter=true&width=480&lines=%24+npm+run+build%3Aportfolio;%3E+reconstruindo+o+portf%C3%B3lio...;%3E+novos+projetos+a+caminho;%3E+deploy+em+breve_" alt="building portfolio" />
+<p align="center">
+  <img src="./assets/terminal.gif" alt="terminal rodando vinia6 --about e npm run build:portfolio" width="100%" />
+</p>
 
-```bash
-$ whoami
-vinicius de assis azevedo · tech lead & ai software engineer
+<p align="center">
+  <img src="./assets/git-log.svg" alt="git log --graph da carreira" width="100%" />
+</p>
 
-$ npm run build:portfolio
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinia6/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" width="48%" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/viniciusdeassisazevedo/"><img src="./assets/btn-instagram.svg" alt="Instagram" width="48%" /></a>
+</p>
 
-  ✔ limpando o legado
-  ✔ escolhendo o que vale mostrar
-  ◌ escrevendo os novos projetos
-  · deploy
+<details>
+<summary><b><code>$ cat CHANGELOG.md</code></b>&nbsp; <sub>👀 clica aqui</sub></summary>
+<br />
 
-  [██████████████░░░░░░] 70%   building v2.0...
+```diff
+@@ v2.0.0-beta · em construção @@
+
+- 20 projetos de faculdade num grid de pastinhas
+- lista de tecnologias que todo mundo tem
+- banner estático
++ menos crud, mais ia
++ projetos que contam uma história
++ deploy de verdade (em breve)
+
+  café: dependência crítica, não remover
 ```
 
-`status: em construção` · enquanto isso, bora trocar uma ideia 👇
+</details>
 
-<a href="https://www.linkedin.com/in/vinia6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/viniciusdeassisazevedo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<br />
+
+<p align="center">
+  <img src="./assets/statusline.svg" alt="statusline: building v2" width="100%" />
+</p>
