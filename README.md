@@ -2,9 +2,6 @@
   <img src="./assets/terminal.gif" alt="terminal rodando vinia6 --about e npm run build:portfolio" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/git-log.svg" alt="git log --graph da carreira" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinia6/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" width="48%" /></a>
